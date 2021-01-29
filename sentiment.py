@@ -22,7 +22,7 @@ import seaborn as sns
 
 
 # Load our data
-trending= pd.read_csv('../input/youtube-trending-video-dataset/US_youtube_trending_data.csv')
+trending= pd.read_csv('../input/youtube-trending-video-dataset/data.csv')
 
 
 # In[3]:
